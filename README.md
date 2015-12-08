@@ -9,5 +9,5 @@ Hacky, googly, using a shoddy knowledge of Python and 2nd year Software Engineer
 4: Brute force until match    
 5: Regex matching    
 6: 2D array of lights and an awful lot of string.split()    
-7: Dumb bubble sort - repeat instructions until it's impossible that any wire is unconnected.
+7: Dumb bubble sort - repeat instructions until it's impossible that any wire is unconnected.    
 8: Ctrl - F
