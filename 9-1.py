@@ -29,6 +29,7 @@ while len(path) < len(nodes) - 1:
     min = 100000
     next = ('','')
     for edge in iter(edges):
+        # i hate this, but this checks that no cycle is made
         visited[edge[0]] += 1
         visited[edge[1]] += 1
         ok = False
@@ -50,7 +51,6 @@ while len(path) < len(nodes) - 1:
     visited[next[0]] += 1
     visited[next[1]] += 1
     path.append(next)
-    print(path)
     
 sum = 0
 print(path)
