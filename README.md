@@ -13,3 +13,4 @@ Hacky, googly, using a shoddy knowledge of Python and 2nd year Software Engineer
 8: Initially I just used find/replace, but that felt bad so I replicated it using sed    
 9: Modified Kruskal's, limiting results to paths instead of trees    
 10: Python letter-counting (slow a.f.)    
+11: Functions for next() and valid() - simple programming    
