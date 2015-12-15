@@ -14,3 +14,7 @@ Hacky, googly, using a shoddy knowledge of Python and 2nd year Software Engineer
 9: Modified Kruskal's, limiting results to paths instead of trees    
 10: Python letter-counting (slow a.f.)    
 11: Functions for next() and valid() - simple programming    
+12: python's built-in JSONDecoder.decode(), then a bunch of recursion    
+13: Permutations. Feels bad, but permutations.    
+14: Simulation, because it's more fun that way (turns out it was necessary)    
+15: Permutations. This one doesn't feel as bad to permute.    
