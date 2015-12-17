@@ -18,3 +18,4 @@ Hacky, googly, using a shoddy knowledge of Python and 2nd year Software Engineer
 13: Permutations. Feels bad, but permutations.    
 14: Simulation, because it's more fun that way (turns out it was necessary)    
 15: Permutations. This one doesn't feel as bad to permute.    
+16: Simple dict storage, then matching.    
